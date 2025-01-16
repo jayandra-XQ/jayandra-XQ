@@ -1,37 +1,23 @@
-# 👋 Hi, I'm Jayandra Hamal!
+# 👋 Hi, I'm Jayandra Hamal!  
 
-I'm a **Computer Engineering student**, **MERN stack developer**, and **SEO freelancer** passionate about building web applications and helping businesses grow online.
+Hey there! I'm a **Computer Engineering student**, **MERN stack developer**, and **SEO freelancer** passionate about crafting web applications and helping businesses grow online.  
 
----
+💻 **What I Do**  
+- Build dynamic, scalable web applications using the **MERN stack**.  
+- Optimize content for search engines with **keyword research** and **on-page SEO**.  
 
-## 🌟 Skills
-- **Frontend**: React.js, HTML, CSS, JavaScript , TypeScript
-- **Backend**: Node.js, Express.js , Python
-- **Database**: MongoDB, MySQL  
-- **SEO**: Keyword Research, On-page Optimization  
+🌱 **What I'm Learning**  
+- Mastering **DSA** for problem-solving.  
+- Exploring **AI/ML** to stay ahead in tech.  
 
----
+🤝 **What I'm Looking For**  
+- Remote internships to enhance my skills and gain real-world experience.  
 
-## 📚 What I'm Working On
-- Practicing **DSA** and learning more about **AI/ML**  
-- Looking for a **remote internship** to gain industry experience  
+💬 **Ask Me About**  
+- Web development, SEO strategies, or building a portfolio as a developer.  
 
----
+📫 **How to Reach Me**  
+- Email: jayandrahamal203@example.com  
+- Fiverr:(https://www.fiverr.com/s/Ay7GR2R)  
 
-## 📌 Projects
-- **Blog App**: A web app built with Node.js and Express.js  
-- **Portfolio Website**: Showcasing my skills and projects  
-
----
-
-## 📫 Let's Connect
-- **Email**: jayandrahamal203@example.com  
-- **Fiverr**:(https://www.fiverr.com/s/Ay7GR2R)  
-
----
-
-*"Code, create, and grow every day!"*
-
-
-
-
+💡 *"Code, create, and grow every day!"*  
